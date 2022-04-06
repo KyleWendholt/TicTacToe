@@ -1,6 +1,6 @@
 public class TicTacToeDriver {
     public static void main(String[] args) {
-        TicTacToeFrame frame = new TicTacToeFrame();
+        TicTacToeGame frame = new TicTacToeGame();
         frame.setVisible(true);
     }
 }
